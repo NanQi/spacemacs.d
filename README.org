@@ -1,0 +1,19 @@
+* NanQi's spacemacs private setting
+A spacemacs private setting.
+** Installation 
+## 1. install emacs
+
+[[https://github.com/syl20bnr/spacemacs#emacs]]
+
+#+BEGIN_SRC shell
+
+## 1. clone spacemacs
+git clone https://github.com/syl20bnr/spacemacs.git ~/.emacs.d
+
+## 2. clone my spacemacs private setting
+git clone https://github.com/NanQi/spacemacs.d.git ~/.spacemacs.d/
+
+## 3. run emacs
+emacs
+
+#+END_SRC
