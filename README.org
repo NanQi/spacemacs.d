@@ -1,7 +1,7 @@
 * NanQi's spacemacs private setting
 A spacemacs private setting.
 ** Installation 
-## 1. install emacs
+first install emacs
 
 [[https://github.com/syl20bnr/spacemacs#emacs]]
 
