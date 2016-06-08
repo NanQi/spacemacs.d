@@ -2,7 +2,7 @@
       '(
         (vue-mode :location (recipe
                              :fetcher github
-                             :repo "codefalling/vue-mode"))
+                             :repo "codefalling/vue-mode")) 
         ))
 
 (defun nanqi/init-vue-mode ()
